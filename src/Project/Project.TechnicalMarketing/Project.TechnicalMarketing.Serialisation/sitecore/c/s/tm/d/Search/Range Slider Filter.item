@@ -1,0 +1,58 @@
+----item----
+version: 1
+id: {63CA2677-FE3D-4CD7-8971-FD71EED855B6}
+database: master
+path: /sitecore/content/Sitecore/TechnicalMarketing/Data/Search/Range Slider Filter
+parent: {E67D66B3-92DA-40AD-9ADB-1A594D659714}
+name: Range Slider Filter
+master: {957565A0-BF0D-4F8B-BF2C-4A8F40EC9080}
+template: {7D431148-B2A1-452D-900F-7E36D864DF02}
+templatekey: Range Slider Filter Folder
+
+----field----
+field: {F6D8A61C-2F84-4401-BD24-52D2068172BC}
+name: __Originator
+key: __originator
+content-length: 38
+
+{9C654BB7-A9B1-4564-A150-A7CCF45056E9}
+----version----
+language: en
+version: 1
+revision: 3333327d-ef2d-4a4b-a1f0-070c06e167ba
+
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20200428T005643Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+3333327d-ef2d-4a4b-a1f0-070c06e167ba
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200428T005643Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

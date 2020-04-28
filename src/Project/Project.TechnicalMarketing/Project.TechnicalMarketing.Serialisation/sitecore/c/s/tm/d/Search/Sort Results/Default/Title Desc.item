@@ -1,0 +1,72 @@
+----item----
+version: 1
+id: {8B635A1F-A1F1-45B8-A29A-4A91DA4C5243}
+database: master
+path: /sitecore/content/Sitecore/TechnicalMarketing/Data/Search/Sort Results/Default/Title Desc
+parent: {645817A7-670D-4F01-9369-E7536C00022B}
+name: Title Desc
+master: {957565A0-BF0D-4F8B-BF2C-4A8F40EC9080}
+template: {3E53AC1B-65E8-4AE2-8C5B-8BAF9C3D655E}
+templatekey: Sorting
+
+----field----
+field: {C95B7BAD-FA93-41F0-82DE-C2C2BF0A0E89}
+name: Facet
+key: facet
+content-length: 38
+
+{CECBA925-54E4-4901-837A-6446BA394CE9}
+----field----
+field: {F6D8A61C-2F84-4401-BD24-52D2068172BC}
+name: __Originator
+key: __originator
+content-length: 38
+
+{51206C99-3DD6-497B-A147-8D65ABFAEB86}
+----version----
+language: en
+version: 1
+revision: 1603fe20-2222-4296-8de6-19cf719eec21
+
+----field----
+field: {F3B01C7D-BD46-4972-AB13-4C9C95C4F23D}
+name: Title
+key: title
+content-length: 10
+
+Title Desc
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20200428T005643Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+1603fe20-2222-4296-8de6-19cf719eec21
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200428T005647Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

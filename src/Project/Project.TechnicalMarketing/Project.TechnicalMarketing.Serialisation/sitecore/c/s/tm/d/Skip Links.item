@@ -1,0 +1,51 @@
+----item----
+version: 1
+id: {15040991-31CE-4A66-B799-29482666B9AC}
+database: master
+path: /sitecore/content/Sitecore/TechnicalMarketing/Data/Skip Links
+parent: {58C19F70-5BBB-4339-AC86-9FF5BAA4E852}
+name: Skip Links
+master: {00000000-0000-0000-0000-000000000000}
+template: {1DC97094-8357-4335-8DF5-3349193B1E02}
+templatekey: Skip Links Folder
+
+----version----
+language: en
+version: 1
+revision: 5405f988-b919-4883-b58b-5951a7adcd77
+
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20200428T005514Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+5405f988-b919-4883-b58b-5951a7adcd77
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200428T005514Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
