@@ -1,0 +1,21 @@
+﻿@using Sitecore.XA.Foundation.MarkupDecorator.Extensions
+@using Sitecore.XA.Foundation.RenderingVariants.Extensions
+@using Sitecore.XA.Foundation.SitecoreExtensions.Extensions
+@using Sitecore.XA.Foundation.Variants.Abstractions.Fields
+
+@model Feature.TeamList.Website.Models.TeamListModel
+
+<div @Html.Sxa().Component("cast-list", Model.Attributes)>
+    <div class="component-content">
+        @foreach (var castMember in Model.Team)
+        {
+            <div class="card" style="width: 18rem;">
+                @Html.Sitecore().Field("Image", castMember.Item, new { w = 180, h = 180 })
+                <div class="card-body">
+                    <h5 class="card-title">@Html.Sitecore().Field("Name", castMember.Item)</h5>
+                    <p class="card-text">@Html.Sitecore().Field("Title", castMember.Item).</p>
+                </div>
+            </div>
+        }
+    </div>
+</div>

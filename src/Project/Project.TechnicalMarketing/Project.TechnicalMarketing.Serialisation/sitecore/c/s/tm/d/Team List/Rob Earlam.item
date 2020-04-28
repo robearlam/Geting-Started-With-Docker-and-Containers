@@ -1,0 +1,65 @@
+----item----
+version: 1
+id: {33EAE5B1-DD5E-4CF1-A4B7-2C8AB305F371}
+database: master
+path: /sitecore/content/Sitecore/TechnicalMarketing/Data/Team List/Rob Earlam
+parent: {A6E96AA3-8C83-479D-B701-3C243169DFF1}
+name: Rob Earlam
+master: {00000000-0000-0000-0000-000000000000}
+template: {69109296-94BB-49CE-861A-9D5711C7CEB5}
+templatekey: Team Member
+
+----version----
+language: en
+version: 1
+revision: b0f7120e-c6ff-4905-87e5-f860d8c57fec
+
+----field----
+field: {183ED6B1-9F06-44FB-9264-505F75747C88}
+name: Name
+key: name
+content-length: 10
+
+Rob Earlam
+----field----
+field: {1FCE44FE-3376-409E-9677-68839249888F}
+name: Title
+key: title
+content-length: 20
+
+Technical Evangelist
+----field----
+field: {40AE5883-7269-440D-9A81-A84BBB3F238E}
+name: Image
+key: image
+content-length: 58
+
+<image mediaid="{C8FCD2D4-A87D-405D-BAB3-E1FDC2006FF2}" />
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20200428T033426Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+b0f7120e-c6ff-4905-87e5-f860d8c57fec
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200428T034642Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

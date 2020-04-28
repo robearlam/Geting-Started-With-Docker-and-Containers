@@ -1,0 +1,65 @@
+----item----
+version: 1
+id: {63E7389E-BEDC-4649-8FF2-21B9B5E164A0}
+database: master
+path: /sitecore/content/Sitecore/TechnicalMarketing/Data/Team List/Jean-Francois Larente
+parent: {A6E96AA3-8C83-479D-B701-3C243169DFF1}
+name: Jean-Francois Larente
+master: {00000000-0000-0000-0000-000000000000}
+template: {69109296-94BB-49CE-861A-9D5711C7CEB5}
+templatekey: Team Member
+
+----version----
+language: en
+version: 1
+revision: f802edc9-2182-4720-aa69-15263153d7aa
+
+----field----
+field: {183ED6B1-9F06-44FB-9264-505F75747C88}
+name: Name
+key: name
+content-length: 21
+
+Jean-Francois Larente
+----field----
+field: {1FCE44FE-3376-409E-9677-68839249888F}
+name: Title
+key: title
+content-length: 21
+
+Demo Delivery Manager
+----field----
+field: {40AE5883-7269-440D-9A81-A84BBB3F238E}
+name: Image
+key: image
+content-length: 58
+
+<image mediaid="{92FC6DD1-8EE1-4687-9716-42D3620F0CD0}" />
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20200428T033627Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+f802edc9-2182-4720-aa69-15263153d7aa
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200428T034513Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

@@ -1,0 +1,65 @@
+----item----
+version: 1
+id: {F51F1A84-E9EE-4484-9957-FDC9A5C71243}
+database: master
+path: /sitecore/content/Sitecore/TechnicalMarketing/Data/Team List/Scott Mulligan
+parent: {A6E96AA3-8C83-479D-B701-3C243169DFF1}
+name: Scott Mulligan
+master: {00000000-0000-0000-0000-000000000000}
+template: {69109296-94BB-49CE-861A-9D5711C7CEB5}
+templatekey: Team Member
+
+----version----
+language: en
+version: 1
+revision: dc3073d1-92c0-4b9a-987b-24bbef57834e
+
+----field----
+field: {183ED6B1-9F06-44FB-9264-505F75747C88}
+name: Name
+key: name
+content-length: 14
+
+Scott Mulligan
+----field----
+field: {1FCE44FE-3376-409E-9677-68839249888F}
+name: Title
+key: title
+content-length: 22
+
+Sr. Software Developer
+----field----
+field: {40AE5883-7269-440D-9A81-A84BBB3F238E}
+name: Image
+key: image
+content-length: 58
+
+<image mediaid="{FA679CD6-3187-4CC4-82CB-6CB8AB1A35F3}" />
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20200428T033659Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+dc3073d1-92c0-4b9a-987b-24bbef57834e
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200428T034716Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

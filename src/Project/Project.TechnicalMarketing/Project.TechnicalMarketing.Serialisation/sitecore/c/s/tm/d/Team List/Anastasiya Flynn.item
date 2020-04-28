@@ -1,0 +1,65 @@
+----item----
+version: 1
+id: {155E9DC3-CFD4-469F-AE62-B30D53A965E8}
+database: master
+path: /sitecore/content/Sitecore/TechnicalMarketing/Data/Team List/Anastasiya Flynn
+parent: {A6E96AA3-8C83-479D-B701-3C243169DFF1}
+name: Anastasiya Flynn
+master: {00000000-0000-0000-0000-000000000000}
+template: {69109296-94BB-49CE-861A-9D5711C7CEB5}
+templatekey: Team Member
+
+----version----
+language: en
+version: 1
+revision: e514a956-b52c-4416-a357-fb54e32c423f
+
+----field----
+field: {183ED6B1-9F06-44FB-9264-505F75747C88}
+name: Name
+key: name
+content-length: 16
+
+Anastasiya Flynn
+----field----
+field: {1FCE44FE-3376-409E-9677-68839249888F}
+name: Title
+key: title
+content-length: 30
+
+Technical Front-End Evangelist
+----field----
+field: {40AE5883-7269-440D-9A81-A84BBB3F238E}
+name: Image
+key: image
+content-length: 58
+
+<image mediaid="{194DDC23-0F76-421C-9E52-43A31D997DE2}" />
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20200428T033541Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+e514a956-b52c-4416-a357-fb54e32c423f
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200428T034417Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
