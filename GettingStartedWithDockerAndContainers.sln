@@ -1,0 +1,73 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30014.187
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".SolutionItems", ".SolutionItems", "{D673C2DD-725E-4456-A438-DD1461AC892D}"
+	ProjectSection(SolutionItems) = preProject
+		.env = .env
+		.gitignore = .gitignore
+		docker-compose.yml = docker-compose.yml
+		README.md = README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Feature", "Feature", "{0529D3E1-5132-45A1-80D4-20A682DA7E58}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Foundation", "Foundation", "{7674196C-B0CA-444D-8F75-4FA329AE2A5E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Project", "Project", "{4464AAEE-8C9E-4756-B4CF-305B1010109C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Feature.TeamList", "Feature.TeamList", "{16CED7C8-9556-41D5-8871-A8B1CFAAE5C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Feature.TeamList.Website", "src\Feature\Feature.TeamList\Feature.TeamList.Website\Feature.TeamList.Website.csproj", "{F7885EF2-9A43-4A32-A3AE-51B256515459}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Project.TechnicalMarketing", "Project.TechnicalMarketing", "{16E5CC19-8516-4140-9F45-675948775824}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project.TechnicalMarketing.Website", "src\Project\Project.TechnicalMarketing\Project.TechnicalMarketing.Website\Project.TechnicalMarketing.Website.csproj", "{1F4BE0E9-3098-4373-BE89-BA73388B55E1}"
+EndProject
+Project("{CAA73BB0-EF22-4D79-A57E-DF67B3BA9C80}") = "Project.TechnicalMarketing.Serialisation", "src\Project\Project.TechnicalMarketing\Project.TechnicalMarketing.Serialisation\Project.TechnicalMarketing.Serialisation.scproj", "{99F46600-00E4-4424-89AF-8C6183F17FE0}"
+EndProject
+Project("{CAA73BB0-EF22-4D79-A57E-DF67B3BA9C80}") = "Feature.TeamList.Serialisation", "src\Feature\Feature.TeamList\Feature.TeamList.Serialisation\Feature.TeamList.Serialisation.scproj", "{FB959263-C215-4AA9-BD2B-830F71568756}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7885EF2-9A43-4A32-A3AE-51B256515459}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7885EF2-9A43-4A32-A3AE-51B256515459}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7885EF2-9A43-4A32-A3AE-51B256515459}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7885EF2-9A43-4A32-A3AE-51B256515459}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F4BE0E9-3098-4373-BE89-BA73388B55E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F4BE0E9-3098-4373-BE89-BA73388B55E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F4BE0E9-3098-4373-BE89-BA73388B55E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F4BE0E9-3098-4373-BE89-BA73388B55E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99F46600-00E4-4424-89AF-8C6183F17FE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99F46600-00E4-4424-89AF-8C6183F17FE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99F46600-00E4-4424-89AF-8C6183F17FE0}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{99F46600-00E4-4424-89AF-8C6183F17FE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99F46600-00E4-4424-89AF-8C6183F17FE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99F46600-00E4-4424-89AF-8C6183F17FE0}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{FB959263-C215-4AA9-BD2B-830F71568756}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB959263-C215-4AA9-BD2B-830F71568756}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB959263-C215-4AA9-BD2B-830F71568756}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{FB959263-C215-4AA9-BD2B-830F71568756}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB959263-C215-4AA9-BD2B-830F71568756}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB959263-C215-4AA9-BD2B-830F71568756}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{16CED7C8-9556-41D5-8871-A8B1CFAAE5C7} = {0529D3E1-5132-45A1-80D4-20A682DA7E58}
+		{F7885EF2-9A43-4A32-A3AE-51B256515459} = {16CED7C8-9556-41D5-8871-A8B1CFAAE5C7}
+		{16E5CC19-8516-4140-9F45-675948775824} = {4464AAEE-8C9E-4756-B4CF-305B1010109C}
+		{1F4BE0E9-3098-4373-BE89-BA73388B55E1} = {16E5CC19-8516-4140-9F45-675948775824}
+		{99F46600-00E4-4424-89AF-8C6183F17FE0} = {16E5CC19-8516-4140-9F45-675948775824}
+		{FB959263-C215-4AA9-BD2B-830F71568756} = {16CED7C8-9556-41D5-8871-A8B1CFAAE5C7}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02FA36AA-6597-4FA2-8779-8098BA4578D3}
+	EndGlobalSection
+EndGlobal
